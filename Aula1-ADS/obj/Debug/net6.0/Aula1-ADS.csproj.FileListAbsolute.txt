@@ -1,0 +1,15 @@
+C:\src\Aula1-ADS\Aula1-ADS\bin\Debug\net6.0\Aula1-ADS.exe
+C:\src\Aula1-ADS\Aula1-ADS\bin\Debug\net6.0\Aula1-ADS.deps.json
+C:\src\Aula1-ADS\Aula1-ADS\bin\Debug\net6.0\Aula1-ADS.runtimeconfig.json
+C:\src\Aula1-ADS\Aula1-ADS\bin\Debug\net6.0\Aula1-ADS.dll
+C:\src\Aula1-ADS\Aula1-ADS\bin\Debug\net6.0\Aula1-ADS.pdb
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.csproj.AssemblyReference.cache
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.AssemblyInfoInputs.cache
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.AssemblyInfo.cs
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.csproj.CoreCompileInputs.cache
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.dll
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\refint\Aula1-ADS.dll
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.pdb
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\Aula1-ADS.genruntimeconfig.cache
+C:\src\Aula1-ADS\Aula1-ADS\obj\Debug\net6.0\ref\Aula1-ADS.dll
